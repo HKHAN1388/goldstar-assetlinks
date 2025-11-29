@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.goldstardiamondcarspeterborough.peterborough",
+      "sha256_cert_fingerprints": [
+        "17:7D:18:27:B0:43:4C:B3:55:C1:85:06:57:D0:27:92:B7:2E:42:75:56:B9:E0:20:E9:0D:6C:B9:D9:BE:95:E8"
+      ]
+    }
+  }
+]
